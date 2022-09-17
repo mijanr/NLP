@@ -5,14 +5,14 @@ Natural Language Processing (NLP) projects.
 In this repo, I will work on different NLP concepts and techniques. As I explore the field and gather more knowledge, I will update the already existing notebooks, create new ones with new ideas, and update the readme file.
 
 # NLP Concepts
-- [x] Tokenization
-- [x] Stemming
-- [x] Lemmatization
-- [x] Stopwords
-- [x] Bag of Words
-- [x] TF-IDF
-- [x] Word2Vec
-- [x] Word Embeddings
+For a detailed explanation of NLP concepts, I am referring to the following links that I found very helpful:
+- [Tokenization](https://www.youtube.com/watch?v=6ZVf1jnEKGI&ab_channel=KrishNaik)
+- [Stemming and Lemmatization](https://www.youtube.com/watch?v=HHAilAC3cXw)
+- [Stopwords](https://www.youtube.com/watch?v=vUPAOU2NPls)
+- [Word embedding](https://ruder.io/word-embeddings-1/index.html)
+- [Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+
+
 
 
 # Libraries used
