@@ -9,8 +9,10 @@ For a detailed explanation of NLP concepts, I am referring to the following link
 - [Tokenization](https://www.youtube.com/watch?v=6ZVf1jnEKGI&ab_channel=KrishNaik)
 - [Stemming and Lemmatization](https://www.youtube.com/watch?v=HHAilAC3cXw)
 - [Stopwords](https://www.youtube.com/watch?v=vUPAOU2NPls)
+- [TF-IDF](https://www.youtube.com/watch?v=ATK6fm3cYfI&ab_channel=codebasics)
 - [Word embedding](https://ruder.io/word-embeddings-1/index.html)
 - [Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+
 
 
 
