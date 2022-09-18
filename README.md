@@ -12,9 +12,7 @@ For a detailed explanation of NLP concepts, I am referring to the following link
 - [TF-IDF](https://www.youtube.com/watch?v=ATK6fm3cYfI&ab_channel=codebasics)
 - [Word embedding](https://ruder.io/word-embeddings-1/index.html)
 - [Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
-
-
-
+- [Parts of Speech Tagging](https://www.youtube.com/watch?v=gdHWoQWZGkk)
 
 
 # Libraries used
@@ -28,8 +26,8 @@ For a detailed explanation of NLP concepts, I am referring to the following link
 * re
 * wordcloud
 
-# Authors
+## Authors
 - [@Mijanur Rahman](https://www.github.com/mijanr)
 
-# 🛠 Skills
+## 🛠 Skills
 Python, Deep Learning, Machine Learning, Computer Vision (CV), Natural Language Processing (NLP)
